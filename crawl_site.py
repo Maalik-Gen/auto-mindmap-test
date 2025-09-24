@@ -1,38 +1,65 @@
-import asyncio, json
+import asyncio, json, os
+from urllib.parse import urljoin
+from hashlib import md5
 from playwright.async_api import async_playwright
 
-START_URL = "https://books.toscrape.com/"   # <--- change for testing
-MAX_PAGES = 5                       # keep small for demo
+START_URL = "https://www.340bpriceguide.net/"
+MAX_PAGES = 50
+SCREENSHOT_DIR = "screenshots"
 
 async def crawl():
-    data, visited, to_visit = [], set(), [START_URL]
+    pages, edges, visited, to_visit = {}, [], set(), [START_URL]
+    os.makedirs(SCREENSHOT_DIR, exist_ok=True)
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch()
+        browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
 
-        while to_visit and len(data) < MAX_PAGES:
+        while to_visit and len(pages) < MAX_PAGES:
             url = to_visit.pop()
-            if url in visited: continue
+            if url in visited:
+                continue
             visited.add(url)
 
+            print(f"[Crawling] {url}")
             await page.goto(url)
-            title = await page.title()
-            links = await page.eval_on_selector_all("a", "els => els.map(e => e.href)")
-            buttons = await page.eval_on_selector_all("button, input[type=button]", 
-                            "els => els.map(e => ({text:e.innerText || e.value, onclick:e.onclick?.toString()}))")
+            await page.wait_for_load_state("networkidle")
 
-            data.append({"url": url, "title": title, "links": links, "buttons": buttons})
+            title = (await page.title()).strip() or url
+            pages[url] = title
 
-            # add more links to queue (same domain only)
-            for l in links:
-                if l.startswith(START_URL) and l not in visited:
-                    to_visit.append(l)
+            # --- take screenshot ---
+            filename = md5(url.encode()).hexdigest() + ".png"
+            screenshot_path = os.path.join(SCREENSHOT_DIR, filename)
+            await page.screenshot(path=screenshot_path, full_page=True)
+            pages[url] = {"title": title, "screenshot": screenshot_path}
+
+            # --- collect links ---
+            anchors = await page.eval_on_selector_all(
+                "a[href]",
+                "els => els.map(e => ({href:e.href, text:(e.innerText || e.textContent || '').trim()}))"
+            )
+            for a in anchors:
+                href = urljoin(url, a["href"])
+                if href.startswith(START_URL):
+                    if href not in visited and href not in to_visit:
+                        to_visit.append(href)
+                    if a["text"]:
+                        edges.append({"source": url, "target": href, "text": a["text"]})
+
+            # --- collect buttons (stand-alone actions) ---
+            buttons = await page.eval_on_selector_all(
+                "button, input[type=button]",
+                "els => els.map(e => ({text:(e.innerText || e.value || '').trim()}))"
+            )
+            for b in buttons:
+                if b["text"]:
+                    edges.append({"source": url, "target": None, "text": b["text"]})
 
         await browser.close()
 
     with open("site_structure.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        json.dump({"pages": pages, "edges": edges}, f, indent=2)
 
 if __name__ == "__main__":
     asyncio.run(crawl())

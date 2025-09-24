@@ -1,916 +1,2831 @@
-[
-  {
-    "url": "https://books.toscrape.com/",
-    "title": "All products | Books to Scrape - Sandbox",
-    "links": [
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/catalogue/category/books_1/index.html",
-      "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
-      "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
-      "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
-      "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
-      "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
-      "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
-      "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
-      "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
-      "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
-      "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
-      "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
-      "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
-      "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
-      "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
-      "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
-      "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
-      "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
-      "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
-      "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
-      "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
-      "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
-      "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
-      "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
-      "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
-      "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
-      "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
-      "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
-      "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
-      "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
-      "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
-      "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
-      "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
-      "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
-      "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
-      "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
-      "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
-      "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
-      "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
-      "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
-      "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
-      "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
-      "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
-      "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
-      "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
-      "https://books.toscrape.com/catalogue/soumission_998/index.html",
-      "https://books.toscrape.com/catalogue/soumission_998/index.html",
-      "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
-      "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
-      "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
-      "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
-      "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
-      "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
-      "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
-      "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
-      "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
-      "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
-      "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
-      "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
-      "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
-      "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
-      "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
-      "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
-      "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
-      "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
-      "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
-      "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
-      "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
-      "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
-      "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
-      "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
-      "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
-      "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
-      "https://books.toscrape.com/catalogue/olio_984/index.html",
-      "https://books.toscrape.com/catalogue/olio_984/index.html",
-      "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
-      "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
-      "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
-      "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
-      "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
-      "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
-      "https://books.toscrape.com/catalogue/page-2.html"
-    ],
-    "buttons": [
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      }
-    ]
+{
+  "pages": {
+    "https://www.340bpriceguide.net/": {
+      "title": "Home - 340B Price Guide",
+      "screenshot": "screenshots\\35eceb47db2ee92eb53c9b97c1865c14.png"
+    },
+    "https://www.340bpriceguide.net/index.php/contact-us": {
+      "title": "Contact Us - 340B Price Guide",
+      "screenshot": "screenshots\\8549f052ae54405465fdb32da548f706.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\ab1c36a351cf559c5f771b8f61abf9ae.png"
+    },
+    "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1": {
+      "title": "Contact Us - 340B Price Guide",
+      "screenshot": "screenshots\\2f184cb745a6d17a87c3305b69123a1c.png"
+    },
+    "https://www.340bpriceguide.net/index.php/articles-news": {
+      "title": "Articles and News - 340B Price Guide",
+      "screenshot": "screenshots\\60196bcdc6b39043c1482eb75852ac8d.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use": {
+      "title": "Mobile App - How to Use - 340B Price Guide",
+      "screenshot": "screenshots\\b8f07ff757d95c0744b3cf044d5f0804.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\eb33befa8f298acbae327d1ef07d37f3.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default": {
+      "title": "Mobile App - How to Use - 340B Price Guide",
+      "screenshot": "screenshots\\5e27c4e884f9914f45b698f4cda1fe92.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza": {
+      "title": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza) - 340B Price Guide",
+      "screenshot": "screenshots\\6eda6a1ef39e8141dcbaf374d76c8a86.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\9b2cd62370acd28a1c1476eac4b7b47e.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default": {
+      "title": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza) - 340B Price Guide",
+      "screenshot": "screenshots\\a37c26c5620f43f430df597f606e4247.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order": {
+      "title": "Weekly Update Episode 1: President Trump Healthcare Executive Order - 340B Price Guide",
+      "screenshot": "screenshots\\a3f29d6feeb2955f0d4ead39bf0a1bff.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\95e2a641a6c84d8725191fdb15a8e3e4.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default": {
+      "title": "Weekly Update Episode 1: President Trump Healthcare Executive Order - 340B Price Guide",
+      "screenshot": "screenshots\\2c4a10279c6d85283be51cc43a3a43e8.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages": {
+      "title": "Continued Brand Name Victoza Shortages - 340B Price Guide",
+      "screenshot": "screenshots\\4b910696fc3b1abab2d7396e0e087b9c.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\a93474524452ea11a943b24b0bae7d80.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default": {
+      "title": "Continued Brand Name Victoza Shortages - 340B Price Guide",
+      "screenshot": "screenshots\\f07059c46165cdb537fb5e54de644ffa.png"
+    },
+    "https://www.340bpriceguide.net/articles-news?start=20": {
+      "title": "Articles and News - 340B Price Guide",
+      "screenshot": "screenshots\\4dd87d63930fce8d24f7c35186f9c8f6.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\b0a3269b77cbf89d22187dff10c8dc40.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default": {
+      "title": "340B Registration Periods - 340B Price Guide",
+      "screenshot": "screenshots\\f0c368c86891f4356f72718a034f12e4.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/13-340b-registration-period": {
+      "title": "340B Registration Periods - 340B Price Guide",
+      "screenshot": "screenshots\\03b0be80aeb2ed1b6e239e2862b4c914.png"
+    },
+    "https://www.340bpriceguide.net/articles-news?start=16": {
+      "title": "Articles and News - 340B Price Guide",
+      "screenshot": "screenshots\\32e5997e6ee0b8af25add1384296e4e3.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\9b9c8d0bb926d2def4051e37386a9360.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default": {
+      "title": "Medications to Treat Obesity: What is Available? - 340B Price Guide",
+      "screenshot": "screenshots\\b3fadd37b3593c1aadc4f3b6221966ad.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available": {
+      "title": "Medications to Treat Obesity: What is Available? - 340B Price Guide",
+      "screenshot": "screenshots\\2a2bace762a1cbbae654d8383107e2cd.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\964e28a2f5c05e21484b4f00d05381da.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default": {
+      "title": "What is 340B? - 340B Price Guide",
+      "screenshot": "screenshots\\7db24ddc183856b4ee5aec6f9150921b.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\442b803fe71841e93e0b2e495fd106f0.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default": {
+      "title": "Judge Strikes Down HRSA 340B Patient Definition - 340B Price Guide",
+      "screenshot": "screenshots\\91f2dd5fd7dc057438d72f979f3fe887.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition": {
+      "title": "Judge Strikes Down HRSA 340B Patient Definition - 340B Price Guide",
+      "screenshot": "screenshots\\4847e42b391b187ba5a32fde4d5a9689.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\8d449c96d8cc101e82f34d07644832fd.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default": {
+      "title": "Novo Nordisk will discontinue Levemir - 340B Price Guide",
+      "screenshot": "screenshots\\a4704f6743f034b1010242061d666523.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir": {
+      "title": "Novo Nordisk will discontinue Levemir - 340B Price Guide",
+      "screenshot": "screenshots\\c73908edb0899c397a3dec97786aea1b.png"
+    },
+    "https://www.340bpriceguide.net/articles-news?start=12": {
+      "title": "Articles and News - 340B Price Guide",
+      "screenshot": "screenshots\\8ce6de17ce123da6b8f6e62d2f4380c0.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\f22e3c20f65f0286a30c2e77467899f4.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default": {
+      "title": "Eli Lilly Forced To Remove Restrictions - 340B Price Guide",
+      "screenshot": "screenshots\\3b29e4270cdf3254a135453d420144ea.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions": {
+      "title": "Eli Lilly Forced To Remove Restrictions - 340B Price Guide",
+      "screenshot": "screenshots\\a756dbe0c914d1b2775e471536bdfa51.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\f60d388f91a7adfc8e0dcd84d53d5c68.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default": {
+      "title": "Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide",
+      "screenshot": "screenshots\\f4f58a36663b209255a255a4c409d58e.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies": {
+      "title": "Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide",
+      "screenshot": "screenshots\\3e34a71402b864822e41616d51ea663a.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\e807f266fb781fb321d9e02d977036f1.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default": {
+      "title": "GSK to Discontinue Branded Flovent - 340B Price Guide",
+      "screenshot": "screenshots\\7433364aaf83c3bedb5af1bd408a856d.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent": {
+      "title": "GSK to Discontinue Branded Flovent - 340B Price Guide",
+      "screenshot": "screenshots\\2423aaa1559fbe867f2040061107cfcf.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\b662be141063cdc8efbbdcf4ffa94429.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default": {
+      "title": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide",
+      "screenshot": "screenshots\\08fd81e47f5390f911f1dd132ce00bcb.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law": {
+      "title": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide",
+      "screenshot": "screenshots\\79821a1db08d3615eafee02c974afcd4.png"
+    },
+    "https://www.340bpriceguide.net/articles-news?start=8": {
+      "title": "Articles and News - 340B Price Guide",
+      "screenshot": "screenshots\\70c12dfea9c4bb03a97cc0c54cd7ba2e.png"
+    },
+    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14": {
+      "title": "340B Price Guide",
+      "screenshot": "screenshots\\93583a54e8fed375c1f7cac1bab054c8.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default": {
+      "title": "Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide",
+      "screenshot": "screenshots\\783287254b3d0058247e85dfae4f4a4d.png"
+    },
+    "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source": {
+      "title": "Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide",
+      "screenshot": "screenshots\\65c0986f562385e0ead5ff491b44e423.png"
+    }
   },
-  {
-    "url": "https://books.toscrape.com/catalogue/page-2.html",
-    "title": "All products | Books to Scrape - Sandbox",
-    "links": [
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/catalogue/category/books_1/index.html",
-      "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
-      "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
-      "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
-      "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
-      "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
-      "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
-      "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
-      "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
-      "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
-      "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
-      "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
-      "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
-      "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
-      "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
-      "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
-      "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
-      "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
-      "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
-      "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
-      "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
-      "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
-      "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
-      "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
-      "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
-      "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
-      "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
-      "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
-      "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
-      "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
-      "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
-      "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
-      "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
-      "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
-      "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
-      "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
-      "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
-      "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
-      "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
-      "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
-      "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
-      "https://books.toscrape.com/catalogue/in-her-wake_980/index.html",
-      "https://books.toscrape.com/catalogue/in-her-wake_980/index.html",
-      "https://books.toscrape.com/catalogue/how-music-works_979/index.html",
-      "https://books.toscrape.com/catalogue/how-music-works_979/index.html",
-      "https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html",
-      "https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html",
-      "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html",
-      "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html",
-      "https://books.toscrape.com/catalogue/black-dust_976/index.html",
-      "https://books.toscrape.com/catalogue/black-dust_976/index.html",
-      "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html",
-      "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html",
-      "https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html",
-      "https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html",
-      "https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html",
-      "https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html",
-      "https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html",
-      "https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html",
-      "https://books.toscrape.com/catalogue/wall-and-piece_971/index.html",
-      "https://books.toscrape.com/catalogue/wall-and-piece_971/index.html",
-      "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html",
-      "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html",
-      "https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html",
-      "https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html",
-      "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html",
-      "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html",
-      "https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html",
-      "https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html",
-      "https://books.toscrape.com/catalogue/sophies-world_966/index.html",
-      "https://books.toscrape.com/catalogue/sophies-world_966/index.html",
-      "https://books.toscrape.com/catalogue/penny-maybe_965/index.html",
-      "https://books.toscrape.com/catalogue/penny-maybe_965/index.html",
-      "https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html",
-      "https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html",
-      "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
-      "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
-      "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html",
-      "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html",
-      "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html",
-      "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html",
-      "https://books.toscrape.com/catalogue/page-1.html",
-      "https://books.toscrape.com/catalogue/page-3.html"
-    ],
-    "buttons": [
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      }
-    ]
-  },
-  {
-    "url": "https://books.toscrape.com/catalogue/page-3.html",
-    "title": "All products | Books to Scrape - Sandbox",
-    "links": [
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/catalogue/category/books_1/index.html",
-      "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
-      "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
-      "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
-      "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
-      "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
-      "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
-      "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
-      "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
-      "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
-      "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
-      "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
-      "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
-      "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
-      "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
-      "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
-      "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
-      "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
-      "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
-      "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
-      "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
-      "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
-      "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
-      "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
-      "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
-      "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
-      "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
-      "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
-      "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
-      "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
-      "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
-      "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
-      "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
-      "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
-      "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
-      "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
-      "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
-      "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
-      "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
-      "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
-      "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
-      "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html",
-      "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html",
-      "https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html",
-      "https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html",
-      "https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html",
-      "https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html",
-      "https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html",
-      "https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html",
-      "https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html",
-      "https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html",
-      "https://books.toscrape.com/catalogue/when-we-collided_955/index.html",
-      "https://books.toscrape.com/catalogue/when-we-collided_955/index.html",
-      "https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html",
-      "https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html",
-      "https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html",
-      "https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html",
-      "https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html",
-      "https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html",
-      "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html",
-      "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html",
-      "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html",
-      "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html",
-      "https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html",
-      "https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html",
-      "https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html",
-      "https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html",
-      "https://books.toscrape.com/catalogue/this-one-summer_947/index.html",
-      "https://books.toscrape.com/catalogue/this-one-summer_947/index.html",
-      "https://books.toscrape.com/catalogue/thirst_946/index.html",
-      "https://books.toscrape.com/catalogue/thirst_946/index.html",
-      "https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html",
-      "https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html",
-      "https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html",
-      "https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html",
-      "https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html",
-      "https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html",
-      "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
-      "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
-      "https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html",
-      "https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html",
-      "https://books.toscrape.com/catalogue/page-2.html",
-      "https://books.toscrape.com/catalogue/page-4.html"
-    ],
-    "buttons": [
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      }
-    ]
-  },
-  {
-    "url": "https://books.toscrape.com/catalogue/page-4.html",
-    "title": "All products | Books to Scrape - Sandbox",
-    "links": [
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/catalogue/category/books_1/index.html",
-      "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
-      "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
-      "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
-      "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
-      "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
-      "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
-      "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
-      "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
-      "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
-      "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
-      "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
-      "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
-      "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
-      "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
-      "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
-      "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
-      "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
-      "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
-      "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
-      "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
-      "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
-      "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
-      "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
-      "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
-      "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
-      "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
-      "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
-      "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
-      "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
-      "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
-      "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
-      "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
-      "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
-      "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
-      "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
-      "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
-      "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
-      "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
-      "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
-      "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
-      "https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html",
-      "https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html",
-      "https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html",
-      "https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html",
-      "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html",
-      "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html",
-      "https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html",
-      "https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html",
-      "https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html",
-      "https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html",
-      "https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html",
-      "https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html",
-      "https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html",
-      "https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html",
-      "https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html",
-      "https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html",
-      "https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html",
-      "https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html",
-      "https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html",
-      "https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html",
-      "https://books.toscrape.com/catalogue/the-art-forger_930/index.html",
-      "https://books.toscrape.com/catalogue/the-art-forger_930/index.html",
-      "https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html",
-      "https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html",
-      "https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html",
-      "https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html",
-      "https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html",
-      "https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html",
-      "https://books.toscrape.com/catalogue/soul-reader_926/index.html",
-      "https://books.toscrape.com/catalogue/soul-reader_926/index.html",
-      "https://books.toscrape.com/catalogue/security_925/index.html",
-      "https://books.toscrape.com/catalogue/security_925/index.html",
-      "https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html",
-      "https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html",
-      "https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html",
-      "https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html",
-      "https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html",
-      "https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html",
-      "https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html",
-      "https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html",
-      "https://books.toscrape.com/catalogue/page-3.html",
-      "https://books.toscrape.com/catalogue/page-5.html"
-    ],
-    "buttons": [
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      }
-    ]
-  },
-  {
-    "url": "https://books.toscrape.com/catalogue/page-5.html",
-    "title": "All products | Books to Scrape - Sandbox",
-    "links": [
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/index.html",
-      "https://books.toscrape.com/catalogue/category/books_1/index.html",
-      "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
-      "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
-      "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
-      "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
-      "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
-      "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
-      "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
-      "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
-      "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
-      "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
-      "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
-      "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
-      "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
-      "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
-      "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
-      "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
-      "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
-      "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
-      "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
-      "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
-      "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
-      "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
-      "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
-      "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
-      "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
-      "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
-      "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
-      "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
-      "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
-      "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
-      "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
-      "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
-      "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
-      "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
-      "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
-      "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
-      "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
-      "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
-      "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
-      "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
-      "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
-      "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
-      "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
-      "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
-      "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
-      "https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html",
-      "https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html",
-      "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
-      "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
-      "https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html",
-      "https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html",
-      "https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html",
-      "https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html",
-      "https://books.toscrape.com/catalogue/patience_916/index.html",
-      "https://books.toscrape.com/catalogue/patience_916/index.html",
-      "https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html",
-      "https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html",
-      "https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html",
-      "https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html",
-      "https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html",
-      "https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html",
-      "https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html",
-      "https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html",
-      "https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html",
-      "https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html",
-      "https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html",
-      "https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html",
-      "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
-      "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
-      "https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html",
-      "https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html",
-      "https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html",
-      "https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html",
-      "https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html",
-      "https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html",
-      "https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html",
-      "https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html",
-      "https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html",
-      "https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html",
-      "https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html",
-      "https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html",
-      "https://books.toscrape.com/catalogue/join_902/index.html",
-      "https://books.toscrape.com/catalogue/join_902/index.html",
-      "https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html",
-      "https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html",
-      "https://books.toscrape.com/catalogue/page-4.html",
-      "https://books.toscrape.com/catalogue/page-6.html"
-    ],
-    "buttons": [
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      },
-      {
-        "text": "Add to basket",
-        "onclick": null
-      }
-    ]
-  }
-]
+  "edges": [
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "text": "WHAT IS 340B?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "text": "WEEKLY PRODUCT SHORTAGES"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/",
+      "target": null,
+      "text": "FIND 340B PRICES"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/contact-us",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "text": "WEEKLY PRODUCT SHORTAGES"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=48f36ca13f26e4d5730c8eb5ff22f26733881327",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september",
+      "text": "THE FREESTYLE LIBRE 2 AND FREESTYLE LIBRE 3 SENSORS WILL BE DISCONTINUED IN SEPTEMBER"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab96c5c8edc687a50a26ba37e6a11e02239ab989",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms",
+      "text": "COMMUNICATION FROM BPHC ANNOUNCING NEW AWARD TERMS"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=749ec61a90627df993a54dc3aba86fd806f590a8",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations",
+      "text": "RITE AID WINDS DOWN 340B OPERATIONS"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=163243bbbb52af540e66579c2ba388e97194a64f",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news?start=4",
+      "text": "2"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news?start=8",
+      "text": "3"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news?start=12",
+      "text": "4"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news?start=16",
+      "text": "5"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "6"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news?start=4",
+      "text": "Next"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "End"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "text": "Continued Brand Name Victoza Shortages"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "text": "Weekly Update Episode 1: President Trump Healthcare Executive Order"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "text": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza)"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "text": "Mobile App - How to Use"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "text": "MOBILE APP - HOW TO USE"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "text": "Mobile App - How to Use"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "text": "RITE AID HALTS DISPENSING GLP1 AGONISTS (OZEMPIC/TRULICITY/VICTOZA)"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "text": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza)"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "text": "WEEKLY UPDATE EPISODE 1: PRESIDENT TRUMP HEALTHCARE EXECUTIVE ORDER"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "text": "Weekly Update Episode 1: President Trump Healthcare Executive Order"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "text": "CONTINUED BRAND NAME VICTOZA SHORTAGES"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "text": "Continued Brand Name Victoza Shortages"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "text": "340B REGISTRATION PERIODS"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Start"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news?start=16",
+      "text": "Prev"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "1"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news?start=4",
+      "text": "2"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news?start=8",
+      "text": "3"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news?start=12",
+      "text": "4"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news?start=16",
+      "text": "5"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=20",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "text": "340B Registration Periods"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "text": "340B REGISTRATION PERIODS"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "text": "NOVO NORDISK WILL DISCONTINUE LEVEMIR"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "text": "JUDGE STRIKES DOWN HRSA 340B PATIENT DEFINITION"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "text": "WHAT IS 340B?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "text": "MEDICATIONS TO TREAT OBESITY: WHAT IS AVAILABLE?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Start"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news?start=12",
+      "text": "Prev"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "1"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news?start=4",
+      "text": "2"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news?start=8",
+      "text": "3"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news?start=12",
+      "text": "4"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "6"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "Next"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "End"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "text": "340B Registration Periods"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=16",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "text": "Medications to Treat Obesity: What is Available?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "text": "MEDICATIONS TO TREAT OBESITY: WHAT IS AVAILABLE?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "text": "What is 340B?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "text": "Judge Strikes Down HRSA 340B Patient Definition"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "text": "JUDGE STRIKES DOWN HRSA 340B PATIENT DEFINITION"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "text": "Novo Nordisk will discontinue Levemir"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "text": "NOVO NORDISK WILL DISCONTINUE LEVEMIR"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "text": "HEALTH CENTERS MOVE TO DISMISS CHALLENGE TO CONTRACT PHARMACY LAW"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "text": "GSK TO DISCONTINUE BRANDED FLOVENT"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "text": "RITE AID CORP. ANNOUNCES CLOSURE OF OREGON PHARMACIES"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "text": "ELI LILLY FORCED TO REMOVE RESTRICTIONS"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Start"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news?start=8",
+      "text": "Prev"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "1"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news?start=4",
+      "text": "2"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news?start=8",
+      "text": "3"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news?start=16",
+      "text": "5"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "6"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news?start=16",
+      "text": "Next"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "End"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "text": "Novo Nordisk will discontinue Levemir"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "text": "Judge Strikes Down HRSA 340B Patient Definition"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "text": "What is 340B?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "text": "Medications to Treat Obesity: What is Available?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=12",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "text": "Eli Lilly Forced To Remove Restrictions"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "text": "ELI LILLY FORCED TO REMOVE RESTRICTIONS"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "text": "Rite Aid Corp. Announces Closure of Oregon Pharmacies"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "text": "RITE AID CORP. ANNOUNCES CLOSURE OF OREGON PHARMACIES"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "text": "GSK to Discontinue Branded Flovent"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "text": "GSK TO DISCONTINUE BRANDED FLOVENT"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "text": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "text": "HEALTH CENTERS MOVE TO DISMISS CHALLENGE TO CONTRACT PHARMACY LAW"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "text": "2024 340B OVERSIGHT HEARING"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "text": "GETTING STARTED - 340B PRICE GUIDE"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "text": "ONGOING SHORTAGES OF DIABETES MEDICATION"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "text": "Weekly Product Shortages"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "text": "BASAGLAR NO LONGER COVERED THROUGH PACIFIC SOURCE AND TRILLIUM."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "text": "READ MORE ..."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Start"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news?start=4",
+      "text": "Prev"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "1"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news?start=4",
+      "text": "2"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news?start=12",
+      "text": "4"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news?start=16",
+      "text": "5"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "6"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news?start=12",
+      "text": "Next"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news?start=20",
+      "text": "End"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "text": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "text": "GSK to Discontinue Branded Flovent"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "text": "Rite Aid Corp. Announces Closure of Oregon Pharmacies"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "text": "Eli Lilly Forced To Remove Restrictions"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news?start=8",
+      "target": null,
+      "text": "Go"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+      "target": null,
+      "text": "Send"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+      "target": null,
+      "text": "Cancel"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "text": "Basaglar no longer covered through Pacific Source and Trillium."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/340b-search",
+      "text": "Search"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/articles-news",
+      "text": "Articles"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/about-us",
+      "text": "About"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/contact-us",
+      "text": "Contact"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/client-login?view=reset",
+      "text": "Forgot your password?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/client-login?view=remind",
+      "text": "Forgot your username?"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/client-login?view=registration",
+      "text": "Create an account"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "text": "BASAGLAR NO LONGER COVERED THROUGH PACIFIC SOURCE AND TRILLIUM."
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+      "text": "Print"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+      "text": "Email"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/index.php",
+      "text": "Home"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/index.php/about-us",
+      "text": "About Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/index.php/articles-news",
+      "text": "Articles & News"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/index.php/contact-us",
+      "text": "Contact Us"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "text": "TOP"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": null,
+      "text": "Sign up / Sign in"
+    },
+    {
+      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "target": null,
+      "text": "Go"
+    }
+  ]
+}
