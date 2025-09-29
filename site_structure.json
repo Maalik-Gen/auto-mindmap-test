@@ -1,2831 +1,1353 @@
 {
   "pages": {
-    "https://www.340bpriceguide.net/": {
-      "title": "Home - 340B Price Guide",
-      "screenshot": "screenshots\\35eceb47db2ee92eb53c9b97c1865c14.png"
+    "https://teamupventures.com": {
+      "title": "Home - Teamup Ventures",
+      "description": "3",
+      "screenshot": "screenshots\\9bb313ca33e0a56385ebc6672d2e7169.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\5e1c4c4189f94938b1b698045aff75d6_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\5799ccf3ae1a38146b6b9c1dfdc7b53b_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\2933c26bd3a96f13a0b3cd52a2e9dd13_section.png"
+        },
+        {
+          "id": "main-content",
+          "screenshot": "screenshots\\b06f6a65c001547fb200263981ec7cac_section.png"
+        },
+        {
+          "id": "pakistan-story",
+          "screenshot": "screenshots\\ab488cea013eca00173a52cc035ede95_section.png"
+        },
+        {
+          "id": "scrap-board",
+          "screenshot": "screenshots\\6d7641ca33fe0ec80757ead21403ab1c_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/index.php/contact-us": {
-      "title": "Contact Us - 340B Price Guide",
-      "screenshot": "screenshots\\8549f052ae54405465fdb32da548f706.png"
+    "https://teamupventures.com/terms-conditions": {
+      "title": "Terms & Conditions - Teamup Ventures",
+      "description": "The contents of this website have been prepared by Teamup Ventures Ltd., trading as \u201cTeamup Ventures\u201d. Teamup Ventures is incorporated under the Companies Law, DIFC Law No. 05 of 2018 (registered numb",
+      "screenshot": "screenshots\\620b0dee56849e264ae995fc1b65d43b.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\b8150100a88f4833382ec32508810e7a_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\47d4b64849d083441513ee1973fe3704_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\168a6b286415bac0fae07bbe6c72dc26_section.png"
+        },
+        {
+          "id": "main-content",
+          "screenshot": "screenshots\\24c3e94153032ee980eda69a20e53509_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\ab1c36a351cf559c5f771b8f61abf9ae.png"
+    "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure": {
+      "title": "For a successful startup ecosystem, Pakistan needs to learn to celebrate failure - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\62dbce634604f1ab3613a5b2af947c6e.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\a9e2deea4720355e92cc5e1e20a91e2b_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\b8a28ba9f7760c91b8e8e98a4abc2590_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\47aa9f010db53616963fa73c781f696e_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\4c912220817c7c600d1faa131c6a0dc3_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\bfb8e210d3237200b0e14ecfba58ceb0_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\da3d52514cb7a8f8ea83dc95fdef907f_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\b7405208cb472deb140303316d5141c1_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\ec1e9abe7615061231560b0ed159ce18_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1": {
-      "title": "Contact Us - 340B Price Guide",
-      "screenshot": "screenshots\\2f184cb745a6d17a87c3305b69123a1c.png"
+    "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups": {
+      "title": "NIC Welcomes It\u2019s 10th Cohort of Startups - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\12b2484f93dd0823a51016cec0d617ab.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\b0e86511b67092ebc3dd6aa559c88d46_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\5a0b207d7e67cdf06dc343fbb5de77be_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\631b2e33952c87830607463e9dba3a07_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\9c0b9064e12822fa8d67fb485d18f869_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\db8e1d704f8e3f1ba58c478e150aa95f_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\4b718e4ab97d34a079e579ad0af6f27a_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\bf1b7e72a6e32e7bcccebdf9292f132f_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\a7bf745811f4c902d16f872bc4d4da7d_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/index.php/articles-news": {
-      "title": "Articles and News - 340B Price Guide",
-      "screenshot": "screenshots\\60196bcdc6b39043c1482eb75852ac8d.png"
+    "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding": {
+      "title": "Despite a pandemic, Pakistani startups had their best year yet with over $65 million in funding - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\2d772f9e9d85d6e8e4ab7455b35280d8.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\ba2afd1a56018b6a7f094b37cbf29479_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\4fce4f26275c6bd214d4842bebeeee5f_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\b2033d00d4026cef12e0cd62bc00fc9e_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\884d5ec40a097e91dd313919808ccf16_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\33729470252f45d8e59941c362960e69_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\7bbaf6291329737a6bb5b06382c5c2c7_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\e38a561e3e03168ec6e5b5a7504d9b22_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\dde0acc973b75e687a89ea260b6d946b_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use": {
-      "title": "Mobile App - How to Use - 340B Price Guide",
-      "screenshot": "screenshots\\b8f07ff757d95c0744b3cf044d5f0804.png"
+    "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round": {
+      "title": "Exclusive: Pakistani fintech SadaPay raises $7.2 million in country\u2019s largest seed round - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\becd418644f30100d25a96ffb1bc521b.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\369fc582843ce4dfed7593d39ad73966_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\34ed59d0cc6780dfdbface010243bcc8_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\db0cb1d9bdffd75fff71002919bd952f_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\4cfbdcc61aba30370091b42770efc2c7_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\3e2a8da4f6daf6a3f0380e9c4a162648_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\2b018d4abbf6f7c9c5b68d59403ed30e_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\97fea33c51be759c8b335abb57f3d0c3_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\5f2e0588fa927529c64c2c7c24539f1b_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\eb33befa8f298acbae327d1ef07d37f3.png"
+    "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis": {
+      "title": "Bayfikr \u2013 a User-Friendly Fin-Tech app, Making Payments in Pakistan Easier for Overseas Pakistanis - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\04cd57fc2a654929894c4ee600b386fb.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\fac6d4a69833480ce58d23dfc6f4205b_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\03655ce7b7eb8dcbc33aead9fe3ece95_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\1e6a7740c96456fd073c90f9276c7718_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\fc03feed0c97a38ae09f587fb314df2c_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\1c5f6725815f3b36b1c203748ad1021d_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\64c41670fffaaa7906d4bcf9bd41ff63_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\077b34348f0a140f93845d8c199f9a07_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\2bbc981a7638d7430ba1c0e4be15d2e7_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default": {
-      "title": "Mobile App - How to Use - 340B Price Guide",
-      "screenshot": "screenshots\\5e27c4e884f9914f45b698f4cda1fe92.png"
+    "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups": {
+      "title": "Pakistan launches growth funds for startups - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\5094a1c1c8d749099fec396dbad702e6.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\d512f37ffb6867e0aec8ced22549d1cf_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\300c9e0e21a01103af2f489f76970901_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\6f9c0b5e6e0bea4ce408162d748e6d2b_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\0c913f6324ddba0cd2c47d3242b78176_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\205a599153a6d588b43685e264fa2b31_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\ea9bebffc6ed5ad348b43c8f36681bf6_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\a1b4a0343df8039b60c84ea723317a72_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\3ab950272659a10f2c869ea785491d6f_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\8fe7bab73c1fcbd73a1883cbf854be87_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza": {
-      "title": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza) - 340B Price Guide",
-      "screenshot": "screenshots\\6eda6a1ef39e8141dcbaf374d76c8a86.png"
+    "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students": {
+      "title": "Pakistani Edtech Startup \u2018Edkasa\u2019 raises $320,000 pre-seed by launching an exam prep app for students - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\b90b050561f02b82a3fcd9c8d03b38b1.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\18106ea74ea4a74beba492ecf01848dd_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\5d6401b165b9486b0b10066a10331b70_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\4bf57bfce45c64ab169b45d79afe1f73_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\b967f7dfc75f304f8364105c41cd035f_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\eee3dd62ce9a59c51300d35f00c214d2_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\e469e1765f2d53764e95f2d11e3684d1_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\2143d3c6932065c86ecdfa6408d75cdc_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\8556c49b3bc35714450a2c73247991f5_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\9b2cd62370acd28a1c1476eac4b7b47e.png"
+    "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace": {
+      "title": "Pakistan\u2019s Truck It In raises $1.5 million pre-seed for its trucking marketplace - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\79ebe2187b278a4aad6f532a5c9bfc46.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\47dd338fc2ac1e51916f66321168421d_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\9b1d2b2c59b2f96e41c42634818f532a_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\384b97229365aa65b16db7067c91dc56_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\d8552ab9488ad5b2f64209ed934e8c90_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\4f4b0e780165a34e36e8eb9a8691e50d_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\302eeb7eb4a4193c0042f23bf4987ef8_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\29301c215a15412194f2d52278f9749e_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\86dce7f61996897704bca98a7824d8cd_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default": {
-      "title": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza) - 340B Price Guide",
-      "screenshot": "screenshots\\a37c26c5620f43f430df597f606e4247.png"
+    "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown": {
+      "title": "Pakistani Startups Break Records in 2020 Despite Global Economic Slowdown - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\e6d9090d10532af09d8c00e1d1676c9e.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\ec0e56617f82f48933fc6a8ce3d268bc_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\4b0ce5f5703c315ad0c4ded92ae94f03_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\9c3faaf83bc42d280b80dd09cc4a4991_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\38138f2799f75a46c8cd878cc2c8a6ad_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\f5f5109d4abfcdf0e5de94ef4e1ef53a_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\c9ad263b0325abda89aee52d836bcc5a_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\a865ecc6fc295061db073ecb734d7334_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\bfb165fd8b5bcd901af9308dc205ddf8_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\38170689e94b201e6fa7bbb0c9113a7f_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order": {
-      "title": "Weekly Update Episode 1: President Trump Healthcare Executive Order - 340B Price Guide",
-      "screenshot": "screenshots\\a3f29d6feeb2955f0d4ead39bf0a1bff.png"
+    "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive": {
+      "title": "Pakistan\u2019s First E-commerce Marketing tool launched by Pakistani Entrepreneur to make E-commerce more Competitive - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\e92f1c8a31782e8b1fde3371b6c58e3a.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\b51b525e341eb7b3e4e8a2aa88e58f9c_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\38f2d6657eded848ef112e2d27fb61af_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\ea8df6f751f43b7b1ae1d4760363013b_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\b06e5830dff53b3686c76ab5fd0795b2_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\052e2cd9956a220eb9a681ca5cd57dea_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\90eab5b1f8f6a5858201a2d72b3fb8ca_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\b4b0b140f858d6d056c01fe5e6f82957_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\0e0c45f8ed75e87e6cb7687b518725d3_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\95e2a641a6c84d8725191fdb15a8e3e4.png"
+    "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service": {
+      "title": "HumWell Comes To Rescue, With An All-Inclusive Telehealth Service - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\65f942e3eeb52b5fd3f8a32378cdb7d1.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\13adbb4becb52f753e6fcbbe88e6d8bf_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\77604395b5cd2808f2d12ac5ba339f19_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\f53179d0afb6308438a05c6e88072fc0_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\98ceb939b7e5dc12403a704682a26ac9_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\c168af600bb590dbbaa3f67e0f25e205_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\f79b6aff2f7d26a1cfacdcbc60be49d1_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\3cd47df87221253739eebf270b87c586_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\51a3c484cc91d4ce7947e74f86bb090d_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\da0cbe6f087bfecb46cfeb8c6609e3bd_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default": {
-      "title": "Weekly Update Episode 1: President Trump Healthcare Executive Order - 340B Price Guide",
-      "screenshot": "screenshots\\2c4a10279c6d85283be51cc43a3a43e8.png"
+    "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19": {
+      "title": "Local startup is using AI to detect Covid-19 - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\c462b52bc69334e7d9bfb2d4dbfc6514.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\5711acaefc45a5af1962fa11c33e6a21_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\d043d9532e09cc4542ed34fa5da47823_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\d495a7b00c7f19cfeeeb3b3c793c3652_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\5bf31ba1d1b9842301b61bc12a3936f4_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\271f961cf32f50bea33ce403da9cb613_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\b705cb4f7eaece7df61b28f388a36583_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\2012bdc89b1ffc91c38bbbc6d6282fad_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\144f19dfbd1e9adf96aa0649424e0f92_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\bad6fe97e0526f561f256e734cead200_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages": {
-      "title": "Continued Brand Name Victoza Shortages - 340B Price Guide",
-      "screenshot": "screenshots\\4b910696fc3b1abab2d7396e0e087b9c.png"
+    "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea": {
+      "title": "Pakistani fintech startup called PayPro receives a grant of Rs 7.4 million from USAID and SMEA - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\bfcb8df8d579c4b1674ac5514a160c38.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\e4fa08bdb1cfb83f0e2a9e4888b7e8f1_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\cbfc165957164a10ea69523921e933d1_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\4d1bd26ba454c8390e12db46f42d2f21_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\f531dbd084f5dd8beb7a07e0bb39b500_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\7f47cfe7a8fde5e312affa51586dc436_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\c1f7827fc866351fe0079f7f2db85a08_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\66421c050d75157b235aca2d9ce0ec95_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\5dd28720deb3566394639f7b6e7b40e5_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\dc611f3e67672a81632a21438c915b1c_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\a93474524452ea11a943b24b0bae7d80.png"
+    "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers": {
+      "title": "Islamabad based startup called Shopsy introduces voice search for its customers - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\94bf1e1a7ee3df31e3dc4befbbaddb0e.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\08efbc6d72fae116ee0543cf2707f0c3_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\9f60526586aebee413e6e3c32315929d_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\552d8bbe05bd75db25f4bdd78f360d0e_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\c4f606635536953e34d15a07a66b9989_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\fc555be853366d85d1d48a39c91772d5_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\f982300cd9297e4ef129346971ac993d_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\668a0c14929ca9afdafca10a2c3dc5b1_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\22a72525afb3f8663ab4c389cb4c818e_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\c0a9d0f04d0fc9649ac4e4e4d5eb22d0_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default": {
-      "title": "Continued Brand Name Victoza Shortages - 340B Price Guide",
-      "screenshot": "screenshots\\f07059c46165cdb537fb5e54de644ffa.png"
+    "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital": {
+      "title": "Pak tech startup Remotebase raises $1.4 million led by Indus Valley Capital - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\5156690dbc41ab192eda23e6cc2862ee.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\86f822ae9729275ce2135d1fe221d503_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\5c601c7bcac79912ad9926e5e8815ab3_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\d35cdd764954322b67bac3b58c6c055f_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\30559bb7dfcb815bebe1969a45dfb754_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\cb65d38a1f316040519d74328f6846ed_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\f86a17d387d55973f4a0c79f945d224e_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\e05ac0cb2fc6c59dbe2d300926641c8a_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\efb7408aae92c2045173e4c37b1dbc63_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news?start=20": {
-      "title": "Articles and News - 340B Price Guide",
-      "screenshot": "screenshots\\4dd87d63930fce8d24f7c35186f9c8f6.png"
+    "https://teamupventures.com/scrapboard/startup-challenges-the-way-out": {
+      "title": "Startup challenges: the way out - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\994845d06175f152683d8d531d5a2277.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\3554d27d2fce479de03367da21ff42aa_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\41e30481ddf9878f5d290bb9e3e37c00_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\45cc54d9a3966509e20fbf57b074c80a_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\2fa3a351eb432e01d5b7c5fc334650f2_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\92a913220285bff5ae670759d9786730_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\66699e1c963acc51cdbce5218bb10354_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\5b8cc5e494837317bbc167d9a76ea27d_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\e87ee15c0a936c6653d022fc4b8c8bd3_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\58184d13a76982ad2e8e3ee31f08a813_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\b0a3269b77cbf89d22187dff10c8dc40.png"
+    "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network": {
+      "title": "Pakistan\u2019s Sehat Kahani raises $1 million Pre-Series A to grow its telemedicine network - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\b1b8adf31846b5012bb21458f7bdda00.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\1d6538fe858f5611d90a6d380701dade_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\9b3c050e66390a098d0f21289d16be96_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\9f50bb320011ed4129432fa5f94a9de0_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\433d95b146e2de3743a86bae07ba1d0f_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\17f46ea430a9dd93d04a69bf58a631b8_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\72d2c9ef3449fdca2dc8751e04ea86a3_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\be6b3ed9ab2a865745da104c30f183dc_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\3d2d8331529961c7d9e325d6e3cb9b24_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default": {
-      "title": "340B Registration Periods - 340B Price Guide",
-      "screenshot": "screenshots\\f0c368c86891f4356f72718a034f12e4.png"
+    "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round": {
+      "title": "Clicky.pk attracts $700,000 in pre-series A funding round - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\fb6c70ae5f3328e1da78188be6c8ee6d.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\57e2a74533aa75ea11d5276ef5bda923_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\6dbf7fb5a364fa486f17d78e7f790279_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\297b4323c942b3ebf360e7bf18e483ea_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\5389fefa83bfea491fdabe07f580e671_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\9d01e47edf58b11bb360333c03e300bc_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\de5996a3344605aab766ff35a7510b07_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\863bb402c556af867ac995f44949c785_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\96366f2823eb8839e8e5dc46f40c419b_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news/13-340b-registration-period": {
-      "title": "340B Registration Periods - 340B Price Guide",
-      "screenshot": "screenshots\\03b0be80aeb2ed1b6e239e2862b4c914.png"
+    "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online": {
+      "title": "To survive Pakistan\u2019s COVID pandemic, grocery stores go online - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\bee72a1f11ffceee1f637865ff8f988f.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\6dd2e7f1d3685574d5a11d23ee659ed5_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\794deb124f4d9230379486048f72053e_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\b67ca06347e001f92ece8beb2db4e71f_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\04f50bf143a5dadaab8e3c7c5629f5c4_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\27246c18643aa4da075e618d8994c6f4_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\ec0607a0e7316c7b0786894a97578429_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\d3256fabb2fae2c32f555bbbb53394ce_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\a9d4c75646f0bad199a1db2e65b97880_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\e154b84170830d693f45b9d432ecc173_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/articles-news?start=16": {
-      "title": "Articles and News - 340B Price Guide",
-      "screenshot": "screenshots\\32e5997e6ee0b8af25add1384296e4e3.png"
+    "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups": {
+      "title": "The era of VCs and boom of start-ups - Teamup Ventures",
+      "description": "",
+      "screenshot": "screenshots\\d57d6effe3fb685a11e949a5237fbad6.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\4136188f45cd6ef37fdca4fab168665d_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\f437171a032488f63004e906b3dbc6d2_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\ba8d1e3b42b34de5251b6dfc30b81bec_section.png"
+        },
+        {
+          "id": null,
+          "screenshot": "screenshots\\10481364879cf831545f4ebafa97e572_section.png"
+        },
+        {
+          "id": "footer-widgets",
+          "screenshot": "screenshots\\488e105f9cfde39cb3b1de691dbcfd49_section.png"
+        },
+        {
+          "id": "media_image-3",
+          "screenshot": "screenshots\\68635ef56b9c5b7f8be3326db702f946_section.png"
+        },
+        {
+          "id": "text-11",
+          "screenshot": "screenshots\\52b218a27de271ed73913002f47bafc5_section.png"
+        },
+        {
+          "id": "text-8",
+          "screenshot": "screenshots\\abc1bcc7ac23d271be9aa2a21c28a883_section.png"
+        },
+        {
+          "id": "text-9",
+          "screenshot": "screenshots\\6f863047e636bbf9bd22bfbf4f8a8755_section.png"
+        }
+      ]
     },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\9b9c8d0bb926d2def4051e37386a9360.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default": {
-      "title": "Medications to Treat Obesity: What is Available? - 340B Price Guide",
-      "screenshot": "screenshots\\b3fadd37b3593c1aadc4f3b6221966ad.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available": {
-      "title": "Medications to Treat Obesity: What is Available? - 340B Price Guide",
-      "screenshot": "screenshots\\2a2bace762a1cbbae654d8383107e2cd.png"
-    },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\964e28a2f5c05e21484b4f00d05381da.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default": {
-      "title": "What is 340B? - 340B Price Guide",
-      "screenshot": "screenshots\\7db24ddc183856b4ee5aec6f9150921b.png"
-    },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\442b803fe71841e93e0b2e495fd106f0.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default": {
-      "title": "Judge Strikes Down HRSA 340B Patient Definition - 340B Price Guide",
-      "screenshot": "screenshots\\91f2dd5fd7dc057438d72f979f3fe887.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition": {
-      "title": "Judge Strikes Down HRSA 340B Patient Definition - 340B Price Guide",
-      "screenshot": "screenshots\\4847e42b391b187ba5a32fde4d5a9689.png"
-    },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\8d449c96d8cc101e82f34d07644832fd.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default": {
-      "title": "Novo Nordisk will discontinue Levemir - 340B Price Guide",
-      "screenshot": "screenshots\\a4704f6743f034b1010242061d666523.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir": {
-      "title": "Novo Nordisk will discontinue Levemir - 340B Price Guide",
-      "screenshot": "screenshots\\c73908edb0899c397a3dec97786aea1b.png"
-    },
-    "https://www.340bpriceguide.net/articles-news?start=12": {
-      "title": "Articles and News - 340B Price Guide",
-      "screenshot": "screenshots\\8ce6de17ce123da6b8f6e62d2f4380c0.png"
-    },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\f22e3c20f65f0286a30c2e77467899f4.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default": {
-      "title": "Eli Lilly Forced To Remove Restrictions - 340B Price Guide",
-      "screenshot": "screenshots\\3b29e4270cdf3254a135453d420144ea.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions": {
-      "title": "Eli Lilly Forced To Remove Restrictions - 340B Price Guide",
-      "screenshot": "screenshots\\a756dbe0c914d1b2775e471536bdfa51.png"
-    },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\f60d388f91a7adfc8e0dcd84d53d5c68.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default": {
-      "title": "Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide",
-      "screenshot": "screenshots\\f4f58a36663b209255a255a4c409d58e.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies": {
-      "title": "Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide",
-      "screenshot": "screenshots\\3e34a71402b864822e41616d51ea663a.png"
-    },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\e807f266fb781fb321d9e02d977036f1.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default": {
-      "title": "GSK to Discontinue Branded Flovent - 340B Price Guide",
-      "screenshot": "screenshots\\7433364aaf83c3bedb5af1bd408a856d.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent": {
-      "title": "GSK to Discontinue Branded Flovent - 340B Price Guide",
-      "screenshot": "screenshots\\2423aaa1559fbe867f2040061107cfcf.png"
-    },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\b662be141063cdc8efbbdcf4ffa94429.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default": {
-      "title": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide",
-      "screenshot": "screenshots\\08fd81e47f5390f911f1dd132ce00bcb.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law": {
-      "title": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide",
-      "screenshot": "screenshots\\79821a1db08d3615eafee02c974afcd4.png"
-    },
-    "https://www.340bpriceguide.net/articles-news?start=8": {
-      "title": "Articles and News - 340B Price Guide",
-      "screenshot": "screenshots\\70c12dfea9c4bb03a97cc0c54cd7ba2e.png"
-    },
-    "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14": {
-      "title": "340B Price Guide",
-      "screenshot": "screenshots\\93583a54e8fed375c1f7cac1bab054c8.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default": {
-      "title": "Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide",
-      "screenshot": "screenshots\\783287254b3d0058247e85dfae4f4a4d.png"
-    },
-    "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source": {
-      "title": "Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide",
-      "screenshot": "screenshots\\65c0986f562385e0ead5ff491b44e423.png"
+    "https://teamupventures.com/pakistan-story": {
+      "title": "Pakistan Story - Teamup Ventures",
+      "description": "A combination of factors: a young population, low unemployment & growing middle class underpin healthy macros that position Pakistan to become one of the most promising economies for investors in the",
+      "screenshot": "screenshots\\8549342dde114bc2976f066a677a8e91.png",
+      "sections": [
+        {
+          "id": "page-container",
+          "screenshot": "screenshots\\c15e1bd58c635c06d30323b510ccf194_section.png"
+        },
+        {
+          "id": "et-top-navigation",
+          "screenshot": "screenshots\\82a730f9385e5048881c2cbcd2eab373_section.png"
+        },
+        {
+          "id": "et-main-area",
+          "screenshot": "screenshots\\a230f1d6f6a4b457a394b7541a325835_section.png"
+        },
+        {
+          "id": "main-content",
+          "screenshot": "screenshots\\a5852f21b0abea57f7dccca024086390_section.png"
+        },
+        {
+          "id": "pak-story2",
+          "screenshot": "screenshots\\a729345a5374ec8fde37fbb0c42c5c15_section.png"
+        }
+      ]
     }
   },
   "edges": [
     {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
-      "text": "WHAT IS 340B?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
-      "text": "WEEKLY PRODUCT SHORTAGES"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/",
+      "source": "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
       "target": null,
-      "text": "FIND 340B PRICES"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
+      "source": "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
+      "source": "https://teamupventures.com/terms-conditions",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
+      "source": "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
+      "target": null,
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "TOP"
+      "source": "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": null,
-      "text": "Sign up / Sign in"
+      "source": "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/contact-us",
-      "target": null,
-      "text": "Go"
+      "source": "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+      "source": "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
       "target": null,
-      "text": "Send"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+      "source": "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
       "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
-      "text": "WEEKLY PRODUCT SHORTAGES"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=48f36ca13f26e4d5730c8eb5ff22f26733881327",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september",
-      "text": "THE FREESTYLE LIBRE 2 AND FREESTYLE LIBRE 3 SENSORS WILL BE DISCONTINUED IN SEPTEMBER"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab96c5c8edc687a50a26ba37e6a11e02239ab989",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms",
-      "text": "COMMUNICATION FROM BPHC ANNOUNCING NEW AWARD TERMS"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=749ec61a90627df993a54dc3aba86fd806f590a8",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations",
-      "text": "RITE AID WINDS DOWN 340B OPERATIONS"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=163243bbbb52af540e66579c2ba388e97194a64f",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news?start=4",
-      "text": "2"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news?start=8",
-      "text": "3"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news?start=12",
-      "text": "4"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news?start=16",
-      "text": "5"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "6"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news?start=4",
-      "text": "Next"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "End"
+      "source": "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "text": "Continued Brand Name Victoza Shortages"
+      "source": "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "text": "Weekly Update Episode 1: President Trump Healthcare Executive Order"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "text": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza)"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "text": "Mobile App - How to Use"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
+      "source": "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
+      "source": "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "TOP"
+      "source": "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "source": "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
       "target": null,
-      "text": "Sign up / Sign in"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/index.php/articles-news",
+      "source": "https://teamupventures.com",
       "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "text": "MOBILE APP - HOW TO USE"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "text": "TOP"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "READ MORE"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "source": "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
       "target": null,
-      "text": "Sign up / Sign in"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "source": "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
       "target": null,
-      "text": "Go"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
-      "target": null,
-      "text": "Send"
+      "source": "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
+      "source": "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
       "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "text": "Mobile App - How to Use"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
+      "source": "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
+      "source": "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
+      "source": "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
+      "source": "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "text": "RITE AID HALTS DISPENSING GLP1 AGONISTS (OZEMPIC/TRULICITY/VICTOZA)"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "source": "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
       "target": null,
-      "text": "Sign up / Sign in"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
-      "target": null,
-      "text": "Send"
+      "source": "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
+      "source": "https://teamupventures.com/pakistan-story",
       "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "text": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza)"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
+      "source": "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "text": "WEEKLY UPDATE EPISODE 1: PRESIDENT TRUMP HEALTHCARE EXECUTIVE ORDER"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "source": "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
       "target": null,
-      "text": "Go"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
-      "target": null,
-      "text": "Send"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
+      "source": "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
       "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "text": "Weekly Update Episode 1: President Trump Healthcare Executive Order"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
+      "source": "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
+      "source": "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
+      "source": "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
+      "source": "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
+      "source": "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
+      "source": "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "text": "CONTINUED BRAND NAME VICTOZA SHORTAGES"
+      "source": "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
+      "source": "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
+      "target": null,
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
+      "source": "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
+      "source": "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
+      "target": null,
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "text": "TOP"
+      "source": "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "target": null,
-      "text": "Sign up / Sign in"
+      "source": "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "source": "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
       "target": null,
-      "text": "Go"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+      "source": "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
       "target": null,
-      "text": "Send"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+      "source": "https://teamupventures.com/terms-conditions",
       "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "text": "Continued Brand Name Victoza Shortages"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
+      "source": "https://teamupventures.com/pakistan-story",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
+      "source": "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
+      "source": "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
+      "target": null,
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "text": "340B REGISTRATION PERIODS"
+      "source": "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
-      "text": "Print"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
-      "text": "Email"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "text": "READ MORE ..."
+      "source": "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Start"
+      "source": "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news?start=16",
-      "text": "Prev"
+      "source": "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "1"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news?start=4",
-      "text": "2"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news?start=8",
-      "text": "3"
+      "source": "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news?start=12",
-      "text": "4"
+      "source": "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
+      "target": null,
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news?start=16",
-      "text": "5"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
+      "source": "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
+      "source": "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
+      "source": "https://teamupventures.com/terms-conditions",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
+      "source": "https://teamupventures.com/pakistan-story",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "TOP"
+      "source": "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": null,
-      "text": "Sign up / Sign in"
+      "source": "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news?start=20",
-      "target": null,
-      "text": "Go"
+      "source": "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
-      "target": null,
-      "text": "Send"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
+      "source": "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
       "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "text": "340B Registration Periods"
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "text": "Print"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
+      "source": "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
+      "source": "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
+      "target": "https://teamupventures.com/terms-conditions",
+      "text": "Terms & Conditions"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
+      "source": "https://teamupventures.com",
+      "target": "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
+      "text": "View Details"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "text": "340B REGISTRATION PERIODS"
+      "source": "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
+      "target": null,
+      "text": "\u00d7"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "text": "NOVO NORDISK WILL DISCONTINUE LEVEMIR"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "text": "JUDGE STRIKES DOWN HRSA 340B PATIENT DEFINITION"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
-      "text": "WHAT IS 340B?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "text": "MEDICATIONS TO TREAT OBESITY: WHAT IS AVAILABLE?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Start"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news?start=12",
-      "text": "Prev"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "1"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news?start=4",
-      "text": "2"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news?start=8",
-      "text": "3"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news?start=12",
-      "text": "4"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "6"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "Next"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "End"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news/13-340b-registration-period",
-      "text": "340B Registration Periods"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=16",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "text": "Medications to Treat Obesity: What is Available?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "text": "MEDICATIONS TO TREAT OBESITY: WHAT IS AVAILABLE?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
-      "text": "What is 340B?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "text": "Judge Strikes Down HRSA 340B Patient Definition"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "text": "JUDGE STRIKES DOWN HRSA 340B PATIENT DEFINITION"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "text": "Novo Nordisk will discontinue Levemir"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "text": "NOVO NORDISK WILL DISCONTINUE LEVEMIR"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "text": "HEALTH CENTERS MOVE TO DISMISS CHALLENGE TO CONTRACT PHARMACY LAW"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "text": "GSK TO DISCONTINUE BRANDED FLOVENT"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "text": "RITE AID CORP. ANNOUNCES CLOSURE OF OREGON PHARMACIES"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "text": "ELI LILLY FORCED TO REMOVE RESTRICTIONS"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Start"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news?start=8",
-      "text": "Prev"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "1"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news?start=4",
-      "text": "2"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news?start=8",
-      "text": "3"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news?start=16",
-      "text": "5"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "6"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news?start=16",
-      "text": "Next"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "End"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
-      "text": "Novo Nordisk will discontinue Levemir"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
-      "text": "Judge Strikes Down HRSA 340B Patient Definition"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
-      "text": "What is 340B?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
-      "text": "Medications to Treat Obesity: What is Available?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=12",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "text": "Eli Lilly Forced To Remove Restrictions"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "text": "ELI LILLY FORCED TO REMOVE RESTRICTIONS"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "text": "Rite Aid Corp. Announces Closure of Oregon Pharmacies"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "text": "RITE AID CORP. ANNOUNCES CLOSURE OF OREGON PHARMACIES"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "text": "GSK to Discontinue Branded Flovent"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "text": "GSK TO DISCONTINUE BRANDED FLOVENT"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "text": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "text": "HEALTH CENTERS MOVE TO DISMISS CHALLENGE TO CONTRACT PHARMACY LAW"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
-      "text": "2024 340B OVERSIGHT HEARING"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
-      "text": "GETTING STARTED - 340B PRICE GUIDE"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
-      "text": "ONGOING SHORTAGES OF DIABETES MEDICATION"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
-      "text": "Weekly Product Shortages"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "text": "BASAGLAR NO LONGER COVERED THROUGH PACIFIC SOURCE AND TRILLIUM."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "text": "READ MORE ..."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Start"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news?start=4",
-      "text": "Prev"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "1"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news?start=4",
-      "text": "2"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news?start=12",
-      "text": "4"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news?start=16",
-      "text": "5"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "6"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news?start=12",
-      "text": "Next"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news?start=20",
-      "text": "End"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
-      "text": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
-      "text": "GSK to Discontinue Branded Flovent"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
-      "text": "Rite Aid Corp. Announces Closure of Oregon Pharmacies"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
-      "text": "Eli Lilly Forced To Remove Restrictions"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": null,
-      "text": "Sign up / Sign in"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news?start=8",
-      "target": null,
-      "text": "Go"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
-      "target": null,
-      "text": "Send"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
-      "target": null,
-      "text": "Cancel"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "text": "Basaglar no longer covered through Pacific Source and Trillium."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
-      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/340b-search",
-      "text": "Search"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/articles-news",
-      "text": "Articles"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/about-us",
-      "text": "About"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/contact-us",
-      "text": "Contact"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/client-login?view=reset",
-      "text": "Forgot your password?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/client-login?view=remind",
-      "text": "Forgot your username?"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/client-login?view=registration",
-      "text": "Create an account"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "text": "BASAGLAR NO LONGER COVERED THROUGH PACIFIC SOURCE AND TRILLIUM."
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
-      "text": "Print"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
-      "text": "Email"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/index.php",
-      "text": "Home"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/index.php/about-us",
-      "text": "About Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/index.php/articles-news",
-      "text": "Articles & News"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/index.php/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "text": "TOP"
-    },
-    {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
-      "target": null,
-      "text": "Sign up / Sign in"
+      "source": "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
+      "target": "https://teamupventures.com/pakistan-story",
+      "text": "The Pakistan Story"
     },
     {
-      "source": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "source": "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
       "target": null,
-      "text": "Go"
+      "text": "\u00d7"
     }
   ]
 }
