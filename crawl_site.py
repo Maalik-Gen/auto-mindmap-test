@@ -1,24 +1,55 @@
 import asyncio
 import os
+import json
 from urllib.parse import urlparse
 from hashlib import md5
 from playwright.async_api import async_playwright
-import xml.etree.ElementTree as ET
+# from openai import OpenAI
+# from dotenv import load_dotenv
 
-START_URL = "https://teamupventures.com/"
-MAX_PAGES = 50
+# -------------------------------
+# CONFIG
+# -------------------------------
+START_URL = "https://www.340bpriceguide.net/"
+MAX_PAGES = 100
 SCREENSHOT_DIR = "screenshots"
 
+# -------------------------------
+# LOAD ENV + OPENAI CLIENT (commented out)
+# -------------------------------
+# load_dotenv()
+# api_key = os.getenv("OPENAI_API_KEY")
+# if not api_key:
+#     raise ValueError("❌ OPENAI_API_KEY not found. Did you set it in your .env file?")
+# client = OpenAI(api_key=api_key)
+
+# -------------------------------
+# UTILS
+# -------------------------------
 def normalize_url(u: str) -> str:
-    """
-    Normalize URL but KEEP fragment so we can detect sections.
-    """
     parsed = urlparse(u)
     base = parsed.scheme + "://" + parsed.netloc + parsed.path.rstrip("/")
     if parsed.fragment:
         return base + "#" + parsed.fragment
     return base
 
+
+async def extract_text_content(page) -> str:
+    elements = await page.query_selector_all("h1, h2, h3, p")
+    texts = []
+    for el in elements:
+        try:
+            txt = (await el.inner_text()).strip()
+            if txt:
+                texts.append(txt)
+        except:
+            continue
+    return " ".join(texts)[:2000]
+
+
+# -------------------------------
+# CRAWLER
+# -------------------------------
 async def crawl():
     pages = {}
     edges_set = set()
@@ -44,82 +75,110 @@ async def crawl():
                 print(f"⚠️ Failed to load {url}: {e}")
                 continue
 
-            # --- get title ---
+            # If homepage, scroll to load all content
+            if url.rstrip("/") == START_URL.rstrip("/"):
+                await page.mouse.wheel(0, 1000)
+                await asyncio.sleep(1)
+
             title = (await page.title()).strip() or url
 
-            # --- take full-page screenshot ---
+            # --- full-page screenshot ---
             filename = md5(url.encode()).hexdigest() + ".png"
             screenshot_path = os.path.join(SCREENSHOT_DIR, filename)
             await page.screenshot(path=screenshot_path, full_page=True)
 
-            # --- get a short description safely ---
             description = ""
-            meta_el = await page.query_selector("meta[name='description']")
-            if meta_el:
-                description = await meta_el.get_attribute("content")
 
-            if not description:
-                # fallback: first visible paragraph text
-                p_el = await page.query_selector("p")
-                if p_el:
-                    raw_text = await p_el.inner_text()
-                    description = raw_text[:200]
-
-            # --- improved section screenshots ---
+            # 🔹 Section-specific screenshots (improved)
             section_entries = []
             seen_boxes = []
-            sections = await page.query_selector_all("section")  # only top-level sections
+            selectors = [
+                "section",
+                "main",
+                "article",
+                "div[class*='about']",
+                "div[class*='content']",
+                "div[class*='article']",
+                "div[class*='post']",
+                "div[class*='comment']",
+                "footer"
+            ]
+            sections = []
+            for sel in selectors:
+                found = await page.query_selector_all(sel)
+                sections.extend(found)
+
             for i, sec in enumerate(sections):
                 box = await sec.bounding_box()
                 if not box:
                     continue
-
-                # skip very small boxes
                 if box["width"] < 200 or box["height"] < 200:
                     continue
 
-                # check for duplicates (overlap)
-                duplicate = False
-                for sb in seen_boxes:
-                    overlap_x = max(0, min(box["x"] + box["width"], sb["x"] + sb["width"]) - max(box["x"], sb["x"]))
-                    overlap_y = max(0, min(box["y"] + box["height"], sb["y"] + sb["height"]) - max(box["y"], sb["y"]))
-                    overlap_area = overlap_x * overlap_y
-                    smaller_area = min(box["width"] * box["height"], sb["width"] * sb["height"])
-                    if smaller_area > 0 and (overlap_area / smaller_area) > 0.8:
-                        duplicate = True
-                        break
-                if duplicate:
+                # Avoid overlapping / duplicate screenshots
+                overlap = any(
+                    abs(box["x"] - b["x"]) < 50 and abs(box["y"] - b["y"]) < 50
+                    and abs(box["width"] - b["width"]) < 100 and abs(box["height"] - b["height"]) < 100
+                    for b in seen_boxes
+                )
+                if overlap:
                     continue
+                seen_boxes.append(box)
 
-                # expand box slightly for context
+                # Expand bounding box a little for context
                 box["x"] = max(0, box["x"] - 20)
                 box["y"] = max(0, box["y"] - 20)
                 box["width"] += 40
                 box["height"] += 40
 
-                sec_file = os.path.join(
-                    SCREENSHOT_DIR,
-                    f"{md5((url+str(i)).encode()).hexdigest()}_section.png"
-                )
+                section_id = await sec.get_attribute("id") or await sec.get_attribute("class") or f"section_{i}"
+                section_id = section_id.lower().replace(" ", "_")
+
+                sec_file = os.path.join(SCREENSHOT_DIR, f"{md5((url+section_id).encode()).hexdigest()}_section.png")
+
                 try:
                     await page.screenshot(path=sec_file, clip=box)
                     section_entries.append({
-                        "id": await sec.get_attribute("id"),
-                        "screenshot": sec_file
+                        "id": section_id,
+                        "screenshot": sec_file,
+                        "description": ""
                     })
-                    seen_boxes.append(box)
                 except Exception as e:
                     print(f"⚠️ Section screenshot failed: {e}")
 
-            # Save page info
+            # 🔹 Capture buttons and interactive elements
+            button_entries = []
+            buttons = await page.query_selector_all("button, a[role='button'], .btn, input[type='submit']")
+            for j, btn in enumerate(buttons):
+                try:
+                    visible = await btn.is_visible()
+                    if not visible:
+                        continue
+
+                    box = await btn.bounding_box()
+                    if not box:
+                        continue
+                    if box["width"] < 50 or box["height"] < 20:
+                        continue
+                    box["x"] = max(0, box["x"] - 10)
+                    box["y"] = max(0, box["y"] - 10)
+                    box["width"] += 20
+                    box["height"] += 20
+
+                    btn_file = os.path.join(SCREENSHOT_DIR, f"{md5((url+str(j)).encode()).hexdigest()}_button.png")
+                    await page.screenshot(path=btn_file, clip=box)
+                    button_entries.append(btn_file)
+                except Exception as e:
+                    print(f"⚠️ Button screenshot failed: {e}")
+
             pages[url] = {
                 "title": title,
-                "description": (description or "").strip(),
+                "description": description,
                 "screenshot": screenshot_path,
-                "sections": section_entries
+                "sections": section_entries,
+                "buttons": button_entries
             }
 
-            # --- collect links ---
             anchors = await page.eval_on_selector_all(
                 "a[href]",
                 "els => els.map(e => ({href:e.getAttribute('href'), "
@@ -132,7 +191,6 @@ async def crawl():
                 parsed = urlparse(full_href)
 
                 if full_href.startswith(START_URL) and parsed.fragment:
-                    # internal fragment → treat as section
                     section_id = parsed.fragment
                     pseudo_url = START_URL.rstrip("/") + f"/__section_{section_id}"
                     section_title = " ".join(
@@ -143,11 +201,11 @@ async def crawl():
                             "title": section_title,
                             "description": "",
                             "screenshot": screenshot_path,
-                            "sections": []
+                            "sections": [],
+                            "buttons": []
                         }
                     if text:
                         edges_set.add((url, pseudo_url, text))
-
                 elif full_href.startswith(START_URL):
                     clean_href = full_href.split("#")[0].rstrip("/")
                     if clean_href not in visited and clean_href not in to_visit:
@@ -155,55 +213,25 @@ async def crawl():
                     if text:
                         edges_set.add((url, clean_href, text))
 
-            # --- collect buttons ---
-            buttons = await page.eval_on_selector_all(
-                "button, input[type=button]",
-                "els => els.map(e => ({text:(e.innerText || e.value || '').trim()}))"
-            )
-            for b in buttons:
-                if b["text"]:
-                    edges_set.add((url, None, b["text"]))
-
         await browser.close()
 
     edges = [{"source": s, "target": t, "text": txt} for s, t, txt in edges_set]
     return pages, edges
 
 
-# --- NEW: Export to FreeMind .mm ---
-def export_to_freemind(pages, edges, output_file="site_structure.mm"):
-    map_el = ET.Element("map", version="1.0.1")
-
-    root_page = pages.get(START_URL, {"title": "Root"})
-    root_node = ET.SubElement(map_el, "node", TEXT=root_page["title"])
-
-    children_map = {}
-    for e in edges:
-        if e["source"] not in children_map:
-            children_map[e["source"]] = []
-        children_map[e["source"]].append(e["target"])
-
-    def build_tree(parent_node, page_url):
-        for child_url in children_map.get(page_url, []):
-            if child_url in pages:
-                child_page = pages[child_url]
-                child_node = ET.SubElement(
-                    parent_node,
-                    "node",
-                    TEXT=child_page["title"] or child_url
-                )
-                if child_page.get("description"):
-                    rc = ET.SubElement(child_node, "richcontent", TYPE="NOTE")
-                    rc.text = child_page["description"]
-                build_tree(child_node, child_url)
-
-    build_tree(root_node, START_URL)
-
-    tree = ET.ElementTree(map_el)
-    tree.write(output_file, encoding="utf-8", xml_declaration=True)
-    print(f"✅ FreeMind file saved as {output_file}")
+# -------------------------------
+# EXPORT
+# -------------------------------
+def export_to_json(pages, edges, output_file="site_structure.json"):
+    data = {"pages": pages, "edges": edges}
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    print(f"✅ JSON file saved as {output_file}")
 
 
+# -------------------------------
+# RUN
+# -------------------------------
 if __name__ == "__main__":
     pages, edges = asyncio.run(crawl())
-    export_to_freemind(pages, edges, "site_structure.mm")
+    export_to_json(pages, edges, "site_structure.json")
